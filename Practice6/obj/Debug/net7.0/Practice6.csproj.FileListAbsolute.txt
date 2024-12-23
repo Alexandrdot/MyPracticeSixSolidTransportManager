@@ -1,0 +1,15 @@
+/Users/aleksandr/Projects/Practice6/Practice6/bin/Debug/net7.0/Practice6
+/Users/aleksandr/Projects/Practice6/Practice6/bin/Debug/net7.0/Practice6.deps.json
+/Users/aleksandr/Projects/Practice6/Practice6/bin/Debug/net7.0/Practice6.runtimeconfig.json
+/Users/aleksandr/Projects/Practice6/Practice6/bin/Debug/net7.0/Practice6.dll
+/Users/aleksandr/Projects/Practice6/Practice6/bin/Debug/net7.0/Practice6.pdb
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/Practice6.csproj.AssemblyReference.cache
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/Practice6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/Practice6.AssemblyInfoInputs.cache
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/Practice6.AssemblyInfo.cs
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/Practice6.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/Practice6.dll
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/refint/Practice6.dll
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/Practice6.pdb
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/Practice6.genruntimeconfig.cache
+/Users/aleksandr/Projects/Practice6/Practice6/obj/Debug/net7.0/ref/Practice6.dll
